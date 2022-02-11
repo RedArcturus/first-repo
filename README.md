@@ -1,1 +1,1 @@
-# first-repo
+# first-repo - учебный проект.
